@@ -161,5 +161,5 @@ See [LICENSE](LICENSE) for details.
 > This IDE is model-agnostic and can be configured to use any AI code generation provider with a compatible API.
 > Your code and board connections remain local and private—you control your workflow and data at all times.
 
-If you need code snippets or screenshots, you can add them under a "Screenshots" section. For deployment, automated build, or release, add relevant sections as needed!
+
 
