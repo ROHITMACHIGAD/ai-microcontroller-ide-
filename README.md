@@ -52,8 +52,6 @@ Works with any API-accessible LLM (e.g. Google Gemini, GPT, open-source, etc.).
     - Compilation, library, and upload backend ([arduino-cli](https://arduino.github.io/arduino-cli/latest/))
 - **Google Generative AI (Gemini), OpenAI, or others**
     - Natural language code generation and refinement (configurable)
-- **TinyDB**
-    - Lightweight local JSON project database
 - **PySerial**
     - Serial monitor and port management
 - **Requests**
